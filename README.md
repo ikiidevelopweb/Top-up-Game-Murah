@@ -2,11 +2,6 @@ PERINGATAN: File ini mengandung script berbahaya yang dapat mencuri data penggun
 File ini tidak aman, dapat disalahgunakan untuk tujuan ilegal, dan pembuatnya tidak bertanggung jawab meskipun mengklaim bahwa file ini “sudah dibeli”.
 Gunakan hanya untuk pembelajaran keamanan siber, bukan untuk merugikan orang lain.
 
-
----
-
-Versi Lebih Panjang (Jika dibutuhkan untuk posting/penjualan/peringatan)
-
 File ini berisi kode berbahaya yang berpura-pura sebagai halaman login Facebook dan menampilkan “update system palsu”. Script ini mampu:
 
 Mengambil email & password pengguna
